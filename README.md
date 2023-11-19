@@ -1,10 +1,8 @@
-# Tech-Blog
-Module 14 -Model-View-Controller (MVC) Challenge: Tech Blog
+# Tech Blog
 
 
 ## Description
 
- I want to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 
 
@@ -29,9 +27,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 ## Deployed Site
 
-https://secure-sands-16724.herokuapp.com/
 
-![screencapture-secure-sands-16724-herokuapp-2022-02-26-18_02_17](https://user-images.githubusercontent.com/87335354/155862809-9446de3b-5581-4b3c-b4e5-84fb3db1c4ff.jpg)
+
 
 ## Installation
 <br />Clone the repo  <br />
@@ -79,9 +76,7 @@ Here the user can see all the comments for this post and they can leave one of t
 
 [Github](https://github.com/Lyman17)
 
-[Email me](BrianLmusic@yahoo.com)
-
-Help & finalization provided by Kara Faris - Full Stack Web Developer
+[Email me](BrianLMusic@yahoo.com)
 
 
 ## License

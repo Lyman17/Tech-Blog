@@ -1,6 +1,6 @@
 :root {
     --primary: #b8c5bd;
-    --secondary: indigo;
+    --secondary: rgb(4, 46, 100);
     --border-radius: .3rem;
 }
 
@@ -14,7 +14,7 @@ body, html {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: var(--secondary);
-    color: #f4a261;
+    color: #f7f6f5;
     
 }
 
