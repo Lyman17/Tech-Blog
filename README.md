@@ -28,10 +28,10 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 https://app-techblog-a05f9ccb1ffe.herokuapp.com/
 
 ## Screenshots
-![techblog-login-dashboard](Tech-Blog\assets\techblog-logindashboard.png)
-![techblog-create-a-post](Tech-Blog\assets\techblog_createpost.jpg)
-![techblog-edit-a-post](Tech-Blog\assets\techblog_editpost.jpg)
-![techblog-view-post](Tech-Blog\assets\techblog_viewpost.jpg)
+![techblog-login-dashboard](assets\techblog-logindashboard.png)
+![techblog-create-a-post](assets\techblog_createpost.jpg)
+![techblog-edit-a-post](assets\techblog_editpost.jpg)
+![techblog-view-post](assets\techblog_viewpost.jpg)
 
 ## Installation
 <br />Clone the repo  <br />
